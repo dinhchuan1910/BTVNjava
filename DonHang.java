@@ -1,6 +1,6 @@
 public class DonHang {
     private String tenKhach;
-    private SanPham sanPham; // Truyền đối tượng SanPham vào đơn hàng
+    private SanPham sanPham; 
     private int soLuong;
 
     public DonHang(String tenKhach, SanPham sanPham, int soLuong) {
